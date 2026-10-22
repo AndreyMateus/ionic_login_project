@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    border: 2px solid #4d8dff;
+    padding: 0.8rem;
+    min-width: 80%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.top-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
