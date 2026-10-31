@@ -27,3 +27,7 @@
     flex-direction: column;
     gap: 0.5rem;
 }
+
+.container-toolbar {
+    display: flex;
+}
